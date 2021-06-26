@@ -40,14 +40,13 @@
  <p align="justify">Aqui nós temos um tutorial onde mostramos como conseguimos os dados do CAGED que nos proporcionaram todos os dados que precisamos para o desenvolvimento principal do trabalho:
  
  <div align="center">
-   <img src="./img/teste.gif" alt="teste">
+   <img src="/teste.gif" alt="teste">
  </div>
  
+ <br>
  
-  
- 
-<h2 align="left">💻Contribuidores 🧑🏾🧑🏽</h2>
-<p align="justify">Desenvolvido por <a href="github.com/nicursino">Nicolas Cursino Magarifuchi</a> e <a href="github.com/medrenan">Renan Alves de Medeiros</a>
+<h2 align="left">💻Contribuidores 🧑🏾🧑🏽🧑🏻👦🏽</h2>
+<p align="justify">Desenvolvido por <a href="github.com/nicursino">Nicolas Cursino Magarifuchi</a>, <a href="github.com/medrenan">Renan Alves de Medeiros</a>, <a href="https://github.com/brennorichard">Brenno Richard</a> e <a href="https://github.com/CristianMateusTB">Cristian Matheus</a>.
 </p>
 
 
