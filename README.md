@@ -1,7 +1,7 @@
 <h1 align="center">CAGED - Análise de dados</h1>
 
 <h1 align="left"> 💡 Sobre </h1>
-<p align="justify">O projeto CAGED - Análise de dados, é um trabalho orientado pelo professor Fernando Masanori, da disciplina de Estrutura de dados da FATEC São José dos Campos, em parceria com a TV vanguarda.O projeto tem como foco a análise e dissecação de dados, usando as informações essencias sobre o CAGED.</p>
+<p align="justify">O projeto CAGED - Análise de dados, é um trabalho orientado pelo professor Fernando Masanori, da disciplina de Estrutura de dados da FATEC São José dos Campos, em parceria com a TV vanguarda. O projeto tem como foco a análise e dissecação de dados, usando as informações essencias sobre o CAGED.</p>
 
 <h1>👩‍💻 Analisando os dados</h1>
 
