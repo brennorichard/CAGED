@@ -23,7 +23,7 @@
 
 <h4>Emprego por nível de escolaridade</h4>
 <div>
-  <img src="/Emprego por nível de escolaridade no ano de 2020.png" alt="Emprego por escolaridade no ano de 2020">
+  <img src="/Emprego por nivel de escolaridade no ano de 2020.png" alt="Emprego por escolaridade no ano de 2020">
 </div>
 
 <h4>Emprego por classe social</h4>
