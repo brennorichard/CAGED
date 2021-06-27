@@ -85,7 +85,28 @@
 
 <br>
  
-<h3>Causas de demissão formalizadas pelos empregadores</h3>
+<h3>Causas de demissão pelos empregadores</h3>
+
+<h4>Causa de demissão em relação ao gênero</h4>
+<div>
+  <img src="/Causa de demissão em relação ao gênero - ano de 2020" alt="Causa de demissão em relação ao gênero - ano de 2020">
+</div>
+
+<br>
+
+<h4>Causa de demissão em relação a raça/cor</h4>
+<div>
+  <img src="/Causa de demissão em relação a raça e cor - ano de 2020" alt="Causa de demissão em relação a raça/cor - ano de 2020">
+</div>
+
+<br>
+
+<h4>Causa de demissão em relação a faixa etária</h4>
+<div>
+  <img src="/Causa de demissão em relação a faixa etária - ano de 2020" alt="Causa de demissão em relação a faixa etária - ano de 2020">
+</div>
+
+
   
  <br>
   
