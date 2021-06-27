@@ -11,24 +11,49 @@
 
 <h3>Indice de pessoas empregadas e desempregadas</h3>
 
-<h4>Emprego por gênero</h4>
+<h4>Emprego e desemprego por gênero</h4>
 <div>
   <img src="/Emprego por gênero no ano de 2020.png" alt="Emprego por gênero no ano de 2020">
 </div>
 
-<h4>Emprego por faixa etária</h4>
+<div>
+  <img src="/Desemprego por gênero no ano de 2020.png" alt="Desemprego por gênero no ano de 2020">
+</div>
+
+<h4>Emprego e desemprego por faixa etária</h4>
 <div>
   <img src="/Emprego por faixa etária no ano de 2020.png" alt="Emprego por faixa etária no ano de 2020">
 </div>
 
-<h4>Emprego por nível de escolaridade</h4>
+<div>
+  <img src="/Desemprego por faixa etária no ano de 2020.png" alt="Desemprego por faixa etária no ano de 2020">
+</div>
+
+<h4>Emprego e desemprego por nível de escolaridade</h4>
 <div>
   <img src="/Emprego por nivel de escolaridade no ano de 2020.png" alt="Emprego por escolaridade no ano de 2020">
 </div>
 
-<h4>Emprego por classe social</h4>
+<div>
+  <img src="/Desemprego por nível de escolaridade no ano de 2020.png" alt="Emprego por nível de escolaridade no ano de 2020">
+</div>
+
+<h4>Emprego e desemprego por classe social</h4>
 <div>
   <img src="/Emprego por classe social no ano de 2020.png" alt="Emprego por classe social no ano de 2020">
+</div>
+
+<div>
+  <img src="/Desemprego por classe social no ano de 2020.png" alt="Desemprego por classe social no ano de 2020">
+</div>
+
+<h4>Emprego e desemprego por setor</h4>
+<div>
+  <img src="/Emprego por setor no ano de 2020.png" alt="Emprego por setor no ano de 2020">
+</div>
+
+<div>
+  <img src="/Desemprego por setor no ano de 2020.png" alt="Desemprego por setor no ano de 2020">
 </div>
 
 <br>
