@@ -72,13 +72,7 @@
 
 <h4>Consumo das famílias em relação ao emprego e desemprego</h4>
 <div>
-  <img src="/Consumo das famílias em relação ao emprego no ano de 2020.png" alt="Consumo das famílias em relação ao emprego no ano de 2020">
-</div>
-
-<br>
-
-<div>
-  <img src="/Consumo das famílias em relação ao desemprego no ano de 2020.png" alt="/Consumo das famílias em relação ao desemprego no ano de 2020.png">
+  <img src="/Consumo das famílias em relação ao emprego em 2020.png" alt="Consumo das famílias em relação ao emprego no ano de 2020">
 </div>
 
 <br>
