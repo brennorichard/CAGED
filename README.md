@@ -5,7 +5,7 @@
 
 <h1>👩‍💻 Analisando os dados</h1>
 
-<p align="justify"> A análise de dados foi feita via Jupyter Notebook, usando como base dados do CAGED, os dados recolhidos foram os requisitados pelo cliente com várias informações relevantes a índice de pessoas empregadas e desempregadas, dados sobre a quantidade de admissões e demissões por gênero no período da pandemia, causas e quantidade de demissões e mais estatísticas de consumo/gastos após o aumento ou diminuição emprego e desemprego.</p>
+<p align="justify"> A análise de dados foi feita via Jupyter Notebook, usando como base dados do CAGED, os dados recolhidos foram os requisitados pelo cliente com várias informações relevantes a índice de pessoas empregadas e desempregadas, dados sobre a quantidade de admissões e demissões por gênero no período da pandemia, causas e quantidade de demissões e mais estatísticas sobre o consumo após o aumento ou diminuição de emprego e desemprego.</p>
 
 <br>
 
@@ -13,15 +13,15 @@
 
 <br>
   
-<h3>Estatísticas de consumo/gastos após o aumento ou diminuição do emprego e desemprego</h3>
+<h3>Estatísticas de consumo após o aumento ou diminuição do emprego e desemprego</h3>
 
 <br>
   
-<h3>Admissões/demissões por gênero no período da pandemia</h3>
+<h3>Admissões e demissões por gênero no período da pandemia</h3>
 
 <br>
  
-<h3>Demissões por tipo movimentação / demissão</h3>
+<h3>Demissões por tipo movimentação</h3>
 
 <br>
  
