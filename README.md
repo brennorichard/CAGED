@@ -11,6 +11,26 @@
 
 <h3>Indice de pessoas empregadas e desempregadas</h3>
 
+<h4>Emprego por gênero</h4>
+<div>
+  <img src="/Emprego por gênero no ano de 2020.png" alt="Emprego por gênero no ano de 2020">
+</div>
+
+<h4>Emprego por faixa etária</h4>
+<div>
+  <img src="/Emprego por faixa etária no ano de 2020.png" alt="Emprego por faixa etária no ano de 2020">
+</div>
+
+<h4>Emprego por nível de escolaridade</h4>
+<div>
+  <img src="/Emprego por nível de escolaridade no ano de 2020.png" alt="Emprego por escolaridade no ano de 2020">
+</div>
+
+<h4>Emprego por classe social</h4>
+<div>
+  <img src="/Emprego por classe social no ano de 2020.png" alt="Emprego por classe social no ano de 2020">
+</div>
+
 <br>
   
 <h3>Estatísticas de consumo após o aumento ou diminuição do emprego e desemprego</h3>
