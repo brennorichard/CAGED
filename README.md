@@ -16,6 +16,8 @@
   <img src="/Emprego por gênero no ano de 2020.png" alt="Emprego por gênero no ano de 2020">
 </div>
 
+<br>
+
 <div>
   <img src="/Desemprego por gênero no ano de 2020.png" alt="Desemprego por gênero no ano de 2020">
 </div>
@@ -24,6 +26,8 @@
 <div>
   <img src="/Emprego por faixa etária no ano de 2020.png" alt="Emprego por faixa etária no ano de 2020">
 </div>
+
+<br>
 
 <div>
   <img src="/Desemprego por faixa etária no ano de 2020.png" alt="Desemprego por faixa etária no ano de 2020">
@@ -34,6 +38,8 @@
   <img src="/Emprego por nivel de escolaridade no ano de 2020.png" alt="Emprego por escolaridade no ano de 2020">
 </div>
 
+<br>
+
 <div>
   <img src="/Desemprego por nível de escolaridade no ano de 2020.png" alt="Emprego por nível de escolaridade no ano de 2020">
 </div>
@@ -43,6 +49,8 @@
   <img src="/Emprego por classe social no ano de 2020.png" alt="Emprego por classe social no ano de 2020">
 </div>
 
+<br>
+
 <div>
   <img src="/Desemprego por classe social no ano de 2020.png" alt="Desemprego por classe social no ano de 2020">
 </div>
@@ -51,6 +59,8 @@
 <div>
   <img src="/Emprego por setor no ano de 2020.png" alt="Emprego por setor no ano de 2020">
 </div>
+
+<br>
 
 <div>
   <img src="/Desemprego por setor no ano de 2020.png" alt="Desemprego por setor no ano de 2020">
