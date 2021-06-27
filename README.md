@@ -89,7 +89,7 @@
 
 <h4>Causa de demissão em relação ao gênero</h4>
 <div>
-  <img src="Causa de demissão em relação a faixa etária - ano de 2020.png" alt="Causa de demissão em relação ao gênero - ano de 2020">
+  <img src="Causa de demissão em relação ao gênero - ano de 2020.png" alt="Causa de demissão em relação ao gênero - ano de 2020">
 </div>
 
 <br>
